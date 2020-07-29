@@ -1,6 +1,6 @@
 def using_include(array, element)
 array.include?("wow")
-arrfay.include?("Tardis")
+array.include?("Tardis")
 end
 
 def using_sort(array)
